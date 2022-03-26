@@ -1,0 +1,14 @@
+.form__item {
+  border: 0;
+  box-sizing: border-box;
+  min-width: 358px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 0 0 13px;
+  margin: 30px 0 0;
+  outline: none;
+}
+@media screen and (max-width: 530px) {
+  .form__item {
+    min-width: 238px;
+  }
+}

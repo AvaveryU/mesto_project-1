@@ -1,0 +1,7 @@
+@media all {
+  .form__button-yes {
+    margin-top: 14px; 
+    margin-bottom: 36px;
+  }
+  /*уменьшение расстояния для попапа "вы уверены?"*/
+}

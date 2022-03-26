@@ -1,0 +1,10 @@
+.form__item_type_error {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: rgba(255, 0, 0, 1);
+  margin: 0;
+  opacity: 0;
+  transition: opacity 0.3s;
+}

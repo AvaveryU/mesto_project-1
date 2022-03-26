@@ -1,0 +1,15 @@
+.profile__button_act_avatar {
+  box-sizing: border-box;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.profile__button_act_avatar:hover {
+  cursor: pointer;
+  background-image: url("../../../../images/VectorBig.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}

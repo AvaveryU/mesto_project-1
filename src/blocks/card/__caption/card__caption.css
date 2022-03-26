@@ -1,0 +1,11 @@
+.card__caption {
+  display: flex;
+  justify-content: space-between;
+  max-width: 246px;
+  margin: 22px 0 22px 21px;
+}
+@media screen and (max-width: 425px) {
+  .places {
+    margin-bottom: 31px;
+  }
+}
